@@ -13,10 +13,10 @@ The Restaurant Delivery System is an ongoing project aimed at providing a compre
 * Date range selection for generating custom reports
 
 ## Point of Sale System
-<p float="left">
-  <img src="https://imgur.com/WRApopo.gif" width="500" />
-  <img src="https://imgur.com/XDh5XXY.gif" width="500" /> 
-</p>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://imgur.com/WRApopo.gif" width="49%" />
+  <img src="https://imgur.com/XDh5XXY.gif" width="49%" /> 
+</div>
 The Point of Sale (POS) system is a key component of the Restaurant Delivery System. It provides live fetching, updating, and placing of orders. The system also includes a table management feature that allows restaurant staff to assign orders to specific tables. The POS system facilitates efficient order processing and improves overall restaurant operations.
 
 ## Dashboard
